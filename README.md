@@ -1,5 +1,12 @@
 # newswife
 
+# Members
+[jiyoung1634](https://github.com/jiyoung1634) |
+[bhjin97](https://github.com/bhjin97) |
+[Clear-head](https://github.com/Clear-head) |
+[Telkem](https://github.com/Telkem) |
+[hongsh2003](https://github.com/hongsh2003)|
+
 # 프로젝트 기획서
 ## 1. 프로젝트 개요
 - 프로젝트 주제:
